@@ -1,1 +1,6 @@
-# collections-information
+---
+description: Lorem ipsum ...
+---
+
+# Initial page
+
