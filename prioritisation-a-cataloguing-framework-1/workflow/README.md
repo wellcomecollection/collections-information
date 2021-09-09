@@ -1,2 +1,2 @@
-# Workflow
+# Phases of framework
 
