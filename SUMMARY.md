@@ -1,10 +1,18 @@
 # Table of contents
 
-* [Initial page](README.md)
+## Introduction
 
-## Prioritisation: A Cataloguing Framework <a id="prioritisation-a-cataloguing-framework-1"></a>
+* [What is cataloguing prioritisation?](README.md)
+* [✅ What's in scope?](introduction/whats-in-scope.md)
+* [❌ What's out of scope?](introduction/whats-out-of-scope.md)
 
----
+## The workflow
 
-* [Prioritisation: A Cataloguing Framework](prioritisation-a-cataloguing-framework.md)
-
+* [Overview](the-workflow/overview.md)
+* [How to discover uncatalogued material](the-workflow/exploration-discovery.md)
+* [How to propose something for cataloguing](the-workflow/proposal/README.md)
+  * [Fast track cat (FTC)](the-workflow/proposal/fast-track-cat.md)
+  * [Full proposal](the-workflow/proposal/full-proposal/README.md)
+    * [Criteria](the-workflow/proposal/full-proposal/criteria.md)
+* [Fulfil/Achieve](the-workflow/fulfil-achieve.md)
+* [Decision process](the-workflow/decision.md)
